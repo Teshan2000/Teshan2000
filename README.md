@@ -5,11 +5,12 @@
 
 - 🌱 I’m currently learning **Java, PHP, SQL, JavaScript**
 
-- 📝 I weekly write articles on [https://medium.com/@teshanwijewardhana](https://medium.com/@teshanwijewardhana)
-
 - 💬 Ask me about **Python, C, Java**
 
 - 📫 How to reach me **teshan_wijewardhana@outlook.com**
+
+- 📝 I weekly write articles on [https://medium.com/@teshanwijewardhana](https://medium.com/@teshanwijewardhana)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
