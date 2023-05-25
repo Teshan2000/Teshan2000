@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in Programming, Web Developing and Graphic Designing
 
-- 🌱 I’m currently learning **Java, PHP, SQL, JavaScript**
+- 🌱 I’m currently learning **JavaScript, PHP, SQL, Reactjs, Flutter**
 
 - 💬 Ask me about **Python, C, Java**
 
