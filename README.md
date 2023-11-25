@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Teshan Wijewardhana<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Student+of+Uva+Wellassa+University;Software+Developer;Web+Developer;UI+Designer;Graphic+Designer" alt="Typing SVG" /></a>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Student+of+Uva+Wellassa+University;Software+Developer;Web+Developer;UI+Designer;Graphic+Designer" alt="Typing SVG" /></a></h3>
 
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
@@ -32,7 +32,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Teshan2000&layout=compact&theme=tokyonight" alt="Teshan2000" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teshan2000&theme=tokyonight" alt="teshan2000" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teshan2000&theme=tokyonight" alt="teshan2000" /></p>
 
 
 **🐱 My GitHub Data** 
