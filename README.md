@@ -4,15 +4,17 @@
 
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-- 👀 I’m interested in Programming, Web Developing and Graphic Designing
+- 👀 I’m interested in Programming, Web Developing, UI Deisgning and Graphic Designing
 
-- 🌱 I’m currently learning **JavaScript, PHP, SQL, React js, Flutter**
+- 🌱 I’m currently learning **JavaScript, PHP, React js, Flutter**
 
-- 💬 Ask me about **Python, C, Java**
+- 💬 Ask me about **Python, C, Java, Bootstrap**
 
 - 📫 How to reach me **teshan_wijewardhana@outlook.com**
 
-- 📝 I weekly write articles on [https://medium.com/@teshanwijewardhana](https://medium.com/@teshanwijewardhana)
+- 🎨 See my UI/UX designs on **https://www.behance.net/teshanwijewardhana**
+
+- 📝 I weekly write articles on **https://medium.com/@teshanwijewardhana**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -32,21 +34,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Teshan2000&layout=compact&theme=tokyonight" alt="Teshan2000" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teshan2000&theme=tokyonight" alt="teshan2000" /></p>
-
-
-**🐱 My GitHub Data** 
-
-> 🏆 321 Contributions till Year 2023
- > 
-> 📦 341.2 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 12 Public Repositories 
- > 
-> 🔑 3 Private Repositories  
- > 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teshan2000&theme=tokyonight" alt="teshan2000" /></p> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Teshan2000&label=Profile%20views&color=0e75b6&style=flat" alt="Teshan2000" /> </p>
 
